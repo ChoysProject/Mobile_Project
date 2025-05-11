@@ -1,3 +1,6 @@
+첫 모바일 프로젝트이며,
+가볍게 책에서 부동산 앱을 구현하여 보았다.
+
 # first_flutter
 
 A new Flutter project.
